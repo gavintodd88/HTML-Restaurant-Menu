@@ -38,6 +38,10 @@ nav ul {
     text-align: center;
 }
 
+ul.b {
+    list-style-type: none;
+}
+
 nav li {
     display: inline;
 }
