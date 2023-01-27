@@ -19,7 +19,7 @@ li {
 
 img {
     width: 100%;
-    height: auto;
+    height: 400px;
     max-width: 100%;
 }
 
@@ -46,7 +46,7 @@ nav a {
     text-decoration: none;
     font-size: 1.6em;
     color: green;
-    margin-right: 25px;
+    margin-right: 45px;
 }
 
 nav a:hover {
